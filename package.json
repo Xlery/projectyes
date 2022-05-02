@@ -1,0 +1,19 @@
+{
+  "name": "barrenator3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord-button": "^1.0.3",
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord.js": "^12.5.3",
+    "install.sh": "^2.0.1",
+    "lib": "^4.3.3",
+    "nodemon": "^2.0.16"
+  }
+}
